@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Nhatdepzai",
+    logoscript = "101749349170916",
+    tacgia = "Nhat15"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/XeterXMinGamingHub"))()
